@@ -5,3 +5,5 @@ Proyecto para hacer pruebas
 otro cambio
 
 Trabajando con git merge
+
+Editar lo mismo en ramas distintas es arriesgado
